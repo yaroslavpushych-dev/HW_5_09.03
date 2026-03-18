@@ -32,7 +32,7 @@ body {
     margin: 100px auto;
 }
 
-.inputsContainer {
+.inputs-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -42,7 +42,7 @@ body {
     gap: 10px;
 }
 
-.inputsContainer input {
+.inputs-container input {
     width: calc(50% - 10px);
     height: calc(33.3% - 10px);
     outline: none;
@@ -83,7 +83,7 @@ body {
     font-size: 14px;
 }
 
-.createBtn {
+.create-btn {
     height: 60px;
     background-color: rgb(53, 255, 53);
     opacity: 0.7;
